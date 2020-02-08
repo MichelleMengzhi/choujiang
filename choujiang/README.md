@@ -18,7 +18,7 @@ cd path/to/this/directory/choujiang
 回车以后代表你在terminal上进入了这个文件夹
 接着输入:
 ```
-python roll_call.py
+python3 roll_call.py
 ```
 回车
 软件就会出来了！
